@@ -7,7 +7,7 @@ https://github.com/jht5945/sops
 
 
 
-# terraform-sops
+# terraform-aliyun-sops
 
 A Terraform plugin for using files encrypted with [Mozilla sops](https://github.com/mozilla/sops).
 
